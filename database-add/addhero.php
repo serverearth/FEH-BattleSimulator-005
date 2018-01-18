@@ -244,7 +244,7 @@ while($result = $stmt->fetch()){
 				<option value=0>No</option>
 				<option value=1 selected="selected">Yes</option>
 			</select><br>
-			<div style="background-color:#cccccc;text-align:center;cursor:pointer;" onclick="submitShit('addskill');">Add</div>
+			<div style="background-color:#8d1c34;text-align:center;cursor:pointer;" onclick="submitShit('addskill');">Add</div>
 		</form>
 	</div>
 
